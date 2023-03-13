@@ -1,8 +1,10 @@
 # WinKeyCrack
 RU INFO
+
 Это простоя программа для взлома Windows 10 - 11. Для єтой программы нужны права администратора связи с тем что она обходит систему. 
 
 ENG INFO
+
 This is a simple hack program for Windows 10 - 11. This program needs administrator privileges due to the fact that it bypasses the system.
 ## Usage
 RU
@@ -19,6 +21,7 @@ To get started, run the program. Then if it is without administrator rights, it 
     3 - open site with all keys
 ## Download
 ### RU
-
+[KeyCrack-RU-1.0.exe](https://werea25.github.io/WinKeyCrack/KeyCrack-RU-1.0.exe)
 ### ENG
+[KeyCrack-ENG-1.0.exe](https://werea25.github.io/WinKeyCrack/KeyCrack-ENG-1.0.exe)
 
